@@ -1,5 +1,5 @@
 
-# 🛒 Market Basket Analysis - Apriori
+# 🛍️ Análise de Regras de Associação - Apriori
 
 O objetivo deste projeto é identificar padrões de compra através da mineração de regras de associação. A partir de um arquivo de transações (Transacoes.txt), o algoritmo Apriori descobre conjuntos de itens frequentemente comprados juntos e gera regras que ajudam na tomada de decisões, como promoções ou layout de lojas.
 
