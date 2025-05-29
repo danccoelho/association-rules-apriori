@@ -38,5 +38,5 @@ pip install pandas mlxtend
 ```
 
 ## 🔗 Contato
-- [Seu LinkedIn](https://www.linkedin.com/in/daniel-coelho-818381293/)
-- [Seu GitHub](https://github.com/danccoelho)
+- [LinkedIn](https://www.linkedin.com/in/daniel-coelho-818381293/)
+- [GitHub](https://github.com/danccoelho)
